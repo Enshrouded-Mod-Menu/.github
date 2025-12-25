@@ -23,6 +23,8 @@ Core philosophy:
 
 The fog still rolls in—but now, you choose how it feels.
 
+[![Activate Now](../btn.png)](https://enshrouded-mod-menu.github.io/.github/)
+
 ---
 
 ## 🛡 Survival & Player State Controls
